@@ -42,7 +42,7 @@ Inside the "Tasty Treat" folder, you'll also find a section labeled "#In Tasty T
 
 4. Bug Report Template:Used to report and track any defects or issues identified during testing.
 
-5. *Test Matrix Overview:Providing an overview of the test coverage and execution status for various test cases related to the Tasty Treat website.
+5. Test Matrix Overview:Providing an overview of the test coverage and execution status for various test cases related to the Tasty Treat website.
    
 ## Evaly website and Evaly app folder is consist of only test case writing.
 
